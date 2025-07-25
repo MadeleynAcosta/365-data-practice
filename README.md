@@ -1,6 +1,6 @@
-# 365-data-practice
+# Data-practice
 
-Bienvenido/a a mi desafío de 365 días donde documento diariamente mi avance como analista de datos. Aquí verás mi progreso en SQL, Python, R, Power BI, Excel y más. Un reto personal para practicar, aprender y crecer en análisis de datos, programación y ciencia de datos.
+Bienvenido/a a mi desafío donde documento mi avance como analista de datos. Aquí verás mi progreso en SQL, Python, R, Power BI, Excel y más. Un reto personal para practicar, aprender y crecer en análisis de datos, programación y ciencia de datos.
 
 # Objetivos generales
 
