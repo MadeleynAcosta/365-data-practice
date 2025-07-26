@@ -15,7 +15,7 @@ Bienvenido/a a mi desafío donde documento mi avance como analista de datos. Aqu
 - Desarrollar proyectos reales con datasets abiertos.
 - Compartir avances y aprendizajes semanalmente.
 
-# Plan de acción para los 365 días
+# Plan de acción 
 
 - **Fase 1 (Mes 1-2)**: Fundamentos de programación con Python y análisis exploratorio de datos.
 - **Fase 2 (Mes 3-4)**: Análisis con SQL y limpieza de datos.
