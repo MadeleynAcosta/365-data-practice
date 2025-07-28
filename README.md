@@ -4,7 +4,7 @@ Bienvenido/a a mi desafío donde documento mi avance como analista de datos. Aqu
 
 # Objetivos generales
 
-- Practicar y mejorar mis habilidades técnicas durante 365 días consecutivos.
+- Practicar y mejorar mis habilidades técnicas.
 - Subir contenido diario a GitHub para mantener consistencia y documentar el proceso.
 - Dominar las herramientas fundamentales para un analista de datos.
 - Crear un portafolio visible y sólido.
