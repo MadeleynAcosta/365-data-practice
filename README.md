@@ -1,6 +1,6 @@
 # Data-practice
 
-Bienvenido/a a mi desafío donde documento mi avance como analista de datos. Aquí verás mi progreso en SQL, Python, R, Power BI, Excel y más. Un reto personal para practicar, aprender y crecer en análisis de datos, programación y ciencia de datos.
+Bienvenid@ a mi desafío donde documento mi avance como analista de datos. Aquí verás mi progreso en SQL, Python, R, Power BI, Tableau, Excel y más. ¡Un reto personal para practicar, aprender y crecer en análisis de datos, programación y ciencia de datos!
 
 # Objetivos generales
 
